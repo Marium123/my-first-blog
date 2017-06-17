@@ -25,7 +25,7 @@ SECRET_KEY = 'n4bd#93=d&@cf9)11yjj4%8(mibzyut5iy5ul4owdwuj&nav$7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<Marium>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','marium123.pythonanywhere.com']
 
 
 # Application definition
